@@ -14,5 +14,4 @@ struct Question {
         text = q
         answer = a
     }
-    
 }
